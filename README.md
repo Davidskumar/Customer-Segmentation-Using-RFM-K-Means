@@ -82,6 +82,14 @@ An interactive Tableau dashboard was created to visualize:
 - Monetary vs Frequency behavior
 - Segment-wise RFM heatmap
 
+### Outcome
+The dashboard serves as a decision-support tool for marketing and business teams, helping identify:
+- High-value customers for retention and loyalty programs  
+- Regular buyers suitable for upsell and engagement strategies  
+- At-risk customers requiring reactivation campaigns  
+
+This output bridges the gap between data science modeling and real-world business action.
+
 ---
 
 ## 📊 Key Insights
