@@ -103,6 +103,7 @@ This output bridges the gap between data science modeling and real-world busines
 - `customer_segments_export.csv` – Clustered customer data
 - Tableau Dashboard (PDF / Tableau Public)
 - Visual analytics and summary tables
+![Dashboard](CustomerSegRFMDashboard.png)
 
 ---
 
